@@ -1,4 +1,4 @@
 print:	src/nbaPlayerParse.awk
 	touch playerReport.txt
 	@awk -f src/nbaPlayerParse.awk data/all_seasons.csv > playerReport.txt
-	@echo "its done"
+	@echo "File has been created"
