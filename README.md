@@ -14,7 +14,7 @@ make -f MakeFile
 The file will then be produced in the same repository and you would be able to read the file through:
 
 ```bash
-make -f MakeFile
+vim playerReport.txt
 ```
 
 Have fun.
