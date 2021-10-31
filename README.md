@@ -7,15 +7,15 @@ The AWK file does several things but mainly it creates a report on several playe
 ## Setup
 This repo makes use of LinuxOs system and would be setup there along with Makefile so it would be best to ssh or make use of your Linux machine. Clone this repo into your repository and you can build the program using this command in the terminal while in your repo copy:
 
-'''bash
+```bash
 make -f MakeFile
-'''
+```
 
 The file will then be produced in the same repository and you would be able to read the file through:
 
-'''bash
+```bash
 make -f MakeFile
-'''
+```
 
 Have fun.
 
