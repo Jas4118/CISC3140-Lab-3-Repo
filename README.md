@@ -1,5 +1,5 @@
 # NBA Player Age and Measurements
-This epository contains an AWK script that will take in a csv file of NBA players with information on many things such as their height age and their teams. This file was found [on Kaggle] (https://www.kaggle.com/justinas/nba-players-data).
+This epository contains an AWK script that will take in a csv file of NBA players with information on many things such as their height age and their teams. This file was found on Kaggle. (https://www.kaggle.com/justinas/nba-players-data).
 
 # Report creation and format
 The AWK file does several things but mainly it creates a report on several players that have been drafted later than the year 2015. After it has the read the file and checking if they have been drafted, it lists out their age, height and weight. This is continued throughout the file and at the end of the file it produces the average height and weight of the players and prints it at the end of the report
